@@ -7,7 +7,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WHCihd
 <br />
 
 ### 2023
-- **Yu Shen**, Jian Zheng, Yang Li, Wentao Zhang, Peng Yao, Jixiang Li, Sen Yang, Ji Liu, and Bin Cui. ProxyBO: Accelerating Neural Architecture Search via Bayesian Optimization with Zero-cost Proxies. To appear in AAAI, 2023.
+- **Yu Shen**, Jian Zheng, Yang Li, Wentao Zhang, Peng Yao, Jixiang Li, Sen Yang, Ji Liu, and Bin Cui. ProxyBO: Accelerating Neural Architecture Search via Bayesian Optimization with Zero-cost Proxies. AAAI Oral, 2023.
 
 ### 2022
 - **Yu Shen**, Yupeng Lu, Yang Li, Yaofeng Tu, Wentao Zhang, and Bin Cui. DivBO: Diversity-aware CASH for Ensemble Learning. NeurIPS 2022.
@@ -25,5 +25,5 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WHCihd
 - Wentao Zhang, Zhi Yang, Yexin Wang, **Yu Shen**, Yang Li, Liang Wang, and Bin Cui. Grain: Improving Data Efficiency of Graph Neural Networks via Diversified Influence Maximization. VLDB 2021. 
 - Yang Li, **Yu Shen**, Wentao Zhang, Jiawei Jiang, Bolin Ding, Yang Li, Jingren Zhou, Zhi Yang, Wentao Wu, Ce Zhang, and Bin Cui. VolcanoML: Speeding up End-to-End AutoML via Scalable Search Space Decomposition. VLDB 2021.
 - Wentao Zhang, **Yu Shen**, Yang Li, Lei Chen, Zhi Yang, and Bin Cui. ALG: Fast and Accurate Active Learning Framework for Graph Convolutional Networks. SIGMOD 2021. 
-- Yang Li, **Yu Shen**, Jiawei Jiang, Jinyang Gao, Ce Zhang, and Bin Cui. MFES-HB: Efficient Hyperband with Multi-Fidelity Quality Measurements. AAAI 2021. 
+- Yang Li, **Yu Shen**, Jiawei Jiang, Jinyang Gao, Ce Zhang, and Bin Cui. MFES-HB: Efficient Hyperband with Multi-Fidelity Quality Measurements. AAAI Spotlight 2021. 
 
