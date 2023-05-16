@@ -7,7 +7,8 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WHCihd
 <br />
 
 ### 2023
-- **Yu Shen**, Xinyuyang Ren, Yupeng Lu, Huaijun Jiang, Huanyong Xu, Di Peng, Yang Li, Wentao Zhang, and Bin Cui. Rover: An online Spark SQL tuning service via generalized transfer learning. Under review at KDD 2023.
+- **Yu Shen**, Xinyuyang Ren, Yupeng Lu, Huaijun Jiang, Huanyong Xu, Di Peng, Yang Li, Wentao Zhang, and Bin Cui. Rover: An online Spark SQL tuning service via generalized transfer learning. To appear at **KDD** 2023.
+- Yang Li, Huaijun Jiang, **Yu Shen**, Yide Fang, Xiaofeng Yang, Danqing Huang, Xinyi Zhang, Wentao Zhang, Ce Zhang, Peng Chen, and Bin Cui. Towards General and Efficient Online Tuning for Spark. To appear at **VLDB** 2023.
 - **Yu Shen**, Yang Li, Jian Zheng, Wentao Zhang, Peng Yao, Jixiang Li, Sen Yang, Ji Liu, and Bin Cui. ProxyBO: Accelerating Neural Architecture Search via Bayesian Optimization with Zero-Cost Proxies. **AAAI Oral** 2023.
 
 ### 2022
