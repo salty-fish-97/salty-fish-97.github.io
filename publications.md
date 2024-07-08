@@ -6,8 +6,12 @@ title: Publications
 You can also browse my <a href="https://scholar.google.com/citations?user=WHCihd4AAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 <br />
 
+### 2024
+- _Huaijun Jiang_, _**Yu Shen**_, _Yang Li_, Beicheng Xu, Sixian Du, Wentao Zhang, Ce Zhang, Bin Cui. Openbox: A Python Toolkit for Generalized Black-box Optimization. **JMLR** 2024.
+- Wentao Zhang, Guochen Yan, **Yu Shen**, Yang Ling, Yangyu Tao, Bin Cui, Jian Tang. NPA: Improving Large-scale Graph Neural Networks with Non-parametric Attention. **SIGMOD** 2024.
+
 ### 2023
-- **Yu Shen**, Xinyuyang Ren, Yupeng Lu, Huaijun Jiang, Huanyong Xu, Di Peng, Yang Li, Wentao Zhang, and Bin Cui. Rover: An online Spark SQL tuning service via generalized transfer learning. **KDD** 2023.
+- **Yu Shen**, Xinyuyang Ren, Yupeng Lu, Huaijun Jiang, Huanyong Xu, Di Peng, Yang Li, Wentao Zhang, and Bin Cui. Rover: An Online Spark SQL Tuning Service via Generalized Transfer Learning. **KDD** 2023.
 - Yang Li, Huaijun Jiang, **Yu Shen**, Yide Fang, Xiaofeng Yang, Danqing Huang, Xinyi Zhang, Wentao Zhang, Ce Zhang, Peng Chen, and Bin Cui. Towards General and Efficient Online Tuning for Spark. **VLDB** 2023.
 - **Yu Shen**, Yang Li, Jian Zheng, Wentao Zhang, Peng Yao, Jixiang Li, Sen Yang, Ji Liu, and Bin Cui. ProxyBO: Accelerating Neural Architecture Search via Bayesian Optimization with Zero-Cost Proxies. **AAAI Oral** 2023.
 
