@@ -6,6 +6,10 @@ title: Publications
 You can also browse my <a href="https://scholar.google.com/citations?user=WHCihd4AAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 <br />
 
+### 2025
+- Jie Jiang, Haining Xie, Siqi Shen, **Yu Shen**, Zihan Zhang, Meng Lei, Yifeng Zheng, Yang Li, Chunyou Li, Danqing Huang, Yinjun Wu, Wentao Zhang, Xiaofeng Yang, Bin Cui, Peng Chen. SiriusBI: A Comprehensive LLM-powered Solution for Data Analytics in Business Intelligence. **VLDB** 2025.
+- _**Yu Shen**_, _Beicheng Xu_, Yupeng Lu, Donghui Chen, Huaijun Jiang, Zhipeng Xie, Senbo Fu, Nan Zhang, Yuxin Ren, Ning Jia, Xinwei Hu, Bin Cui. A-Tune-Online: Efficient and QoS-Aware Online Configuration Tuning for Dynamic Workloads. **ICDE** 2025.
+
 ### 2024
 - _Huaijun Jiang_, _**Yu Shen**_, _Yang Li_, Beicheng Xu, Sixian Du, Wentao Zhang, Ce Zhang, Bin Cui. Openbox: A Python Toolkit for Generalized Black-box Optimization. **JMLR** 2024.
 - Wentao Zhang, Guochen Yan, **Yu Shen**, Yang Ling, Yangyu Tao, Bin Cui, Jian Tang. NPA: Improving Large-scale Graph Neural Networks with Non-parametric Attention. **SIGMOD** 2024.
